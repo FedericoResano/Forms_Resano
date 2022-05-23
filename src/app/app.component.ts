@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Forms_Resano';
+  listaMonedas=[
+    'USD',
+    'Euro',
+    'Yen',
+    ''
+  ]
 }
